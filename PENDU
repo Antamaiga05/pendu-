@@ -122,5 +122,8 @@ def jeu_pendu():
                 
             print(dessinPendu(6 - essais_restants)) #maj du pendu 
 
+    if 
+
+
             
             
